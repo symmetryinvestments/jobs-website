@@ -1,1 +1,14 @@
 /* src custom css */
+
+.ax-logo img {
+  height: 3rem;
+}
+
+.header {
+  box-shadow: none;
+  @apply border-b border-gray-200;
+}
+
+body {
+  overflow-y: scroll;
+}

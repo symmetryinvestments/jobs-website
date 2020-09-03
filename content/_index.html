@@ -1,27 +1,21 @@
 +++
-title = "A Powerful Hugo Theme"
-subtitle = "Axiom is a powerful, high performance, modular Hugo theme, built with Tailwind CSS and Alpine JS."
-description = "Axiom is a powerful, high performance, modular Hugo theme, designed to make the readers of your content and the search engines happy."
+title = "Jobs"
+subtitle = "Find you dreamjob"
+description = "We have plenty of job opportunities in a fast growing market, blah blah."
 +++
 
-{{< blocks/section class="mt-8" >}}
-{{< figure src="image/page-default.webp"  caption="Axiom - A Hugo Theme" >}}
-{{< /blocks/section >}}
-
+<!-- {{< blocks/section class="mt-8" >}}
+     {{< figure src="image/page-default.webp"  caption="Axiom - A Hugo Theme" >}}
+     {{< /blocks/section >}}
+-->
 {{< blocks/section width="max-w-4xl" class="mt-9" >}}
 {{< headless-resource "/home/welcome" >}}
 
-<div class="sm:flex">
-  <div class="cdata">
-    {{< headless-resource "/home/about" >}}
-  </div>
-  <div class="cdata mt-8 sm:ml-8 sm:mt-0">
-    {{< headless-resource "/home/products" >}}
-  </div>
-</div>
 {{< /blocks/section >}}
 
-{{< blocks/section width="max-w-2xl" class="mt-9" mdown="off" >}}
-{{< term-cloud "tags" >}}
-{{< recent-pages 3 >}}
+{{< blocks/section width="max-w-4xl" class="mt-9" mdown="off" >}}
+{{< term-cloud count=true term=categories >}}
+<div class="flex flex-wrap -mx-4">
+  {{< recent-pages limit=3 class="rounded shadow-md p-4 m-4">}}
+  </div>
 {{< /blocks/section >}}

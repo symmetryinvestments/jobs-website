@@ -1,12 +1,11 @@
 +++
-date = "2020-01-01T18:30:00Z"
-lastmod = "2020-01-01T18:30:00Z"
+date = "2020-01-01T16:30:00Z"
+lastmod = "2020-01-01T16:30:00Z"
 author = "axiom"
-title = "Example Post 3"
-subtitle = "Example Post 3. Lorem est tota propiore conpellat pectoribus de pectora summo."
-feature = "image/page-default.webp"
-tags = ["axiom", "hugo", "jamstack"]
-categories = ["axiom", "hugo", "jamstack"]
+title = "Junior"
+subtitle = "Always wanted to be underrated? Got plenty of drive to do the most mundane things? Always wanted to be underrated? Got plenty of drive to do the most mundane things? Always wanted to be underrated? Got plenty of drive to do the most mundane things? Always wanted to be underrated? Got plenty of drive to do the most mundane things?"
+tags = ["tech", "dev", "financial"]
+categories = ["tech", "junior"]
 +++
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.

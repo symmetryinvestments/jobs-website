@@ -1,6 +1,6 @@
 baseURL = "https://axiom-example.netlify.app"
 
-title = "Axiom Example"
+title = "FooBar"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
@@ -23,6 +23,7 @@ copyrightYear = 2019
 # Go Reference time: Mon Jan 2 15:04:05 MST 2006
 dateFormat = "Jan 2, 2006 3:04PM"
 highlight = "dark"
+maxWithContent = "max-w-2xl"
 
 [params.brand]
 domain = "example.com"
@@ -37,33 +38,33 @@ pinterest = "https://www.pinterest.com/user"
 stackoverflow = "https://stackoverflow.com/users/user"
 twitter = "https://twitter.com/axiomtheme"
 youtube = "https://www.youtube.com/user"
-footer = ["twitter", "github", "instagram"]
+# footer = ["twitter", "github", "instagram"]
 
 [params.services]
-googleAnalyticsId = "UA-160259978-2"
-googleTagManagerId = ""
-googleAdsId = ""
-googleAdsenseId = ""
-googleAdsenseAdSlotId = ""
-googleAdsenseLoad = ""
-googleAdsConversionId = ""
-googleAdsConversionValue = 0
-facebookApp = ""
-facebookPixel = ""
-disqusShortname = ""
+# googleAnalyticsId = "UA-160259978-2"
+# googleTagManagerId = ""
+# googleAdsId = ""
+# googleAdsenseId = ""
+# googleAdsenseAdSlotId = ""
+# googleAdsenseLoad = ""
+# googleAdsConversionId = ""
+# googleAdsConversionValue = 0
+# facebookApp = ""
+# facebookPixel = ""
+# disqusShortname = ""
 
 [params.logo]
-inline = true
-path = "image/brand/logo.svg"
+inline = false
+path = "image/brand/logo.png"
 
-[params.image]
-width = "2048"
-height = "1024"
-faviconIco = "favicon.ico"
-faviconAlt = "image/brand/favicon.png"
-icon1To1 = "image/brand/icon-1-1.png"
-icon2To1 = "image/brand/icon-2-1.png"
-default = "image/page-default.webp"
+# [params.image]
+# width = "2048"
+# height = "1024"
+# faviconIco = "favicon.ico"
+# faviconAlt = "image/brand/favicon.png"
+# icon1To1 = "image/brand/icon-1-1.png"
+# icon2To1 = "image/brand/icon-2-1.png"
+# default = "image/page-default.webp"
 
 [params.font]
 type = ""
@@ -126,14 +127,19 @@ tabWidth = 2
 
 [menu]
 [[menu.main]]
-url = "/posts/"
-name = "Posts"
+url = "/about/"
+name = "About"
 weight = 1
 
-[[menu.foot]]
-url = "/posts/"
-name = "Posts"
+[[menu.main]]
+url = "/contact/"
+name = "Contact"
 weight = 1
+
+# [[menu.foot]]
+# url = "/posts/"
+# name = "Posts"
+# weight = 1
 
 [[menu.foot]]
 url = "/about/"

@@ -1,4 +1,5 @@
 /* ALERT! files in 'src' must be built and output to 'assets' */
+@import "tailwindcss/base";
 @import "tailwindcss/utilities";
 
 /* purgecss start ignore */
