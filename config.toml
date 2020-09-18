@@ -1,6 +1,6 @@
 baseURL = "https://axiom-example.netlify.app"
 
-title = "FooBar"
+title = "Symmetry Investments"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
@@ -19,15 +19,15 @@ posts = "/:filename"
 
 [params]
 mainSections = ["posts"]
-copyrightYear = 2019
+copyrightYear = 2020
 # Go Reference time: Mon Jan 2 15:04:05 MST 2006
 dateFormat = "Jan 2, 2006 3:04PM"
 highlight = "dark"
 maxWithContent = "max-w-2xl"
 
 [params.brand]
-domain = "example.com"
-email = "info@example.com"
+domain = "symmetryinvestments.com"
+email = "James Thompson <jthompson@symmetryinvestments.com>"
 
 [params.social]
 facebook = "https://www.facebook.com/user_or_page"

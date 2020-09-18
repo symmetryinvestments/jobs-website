@@ -4,75 +4,58 @@ title = "Privacy Policy"
 summary = "Privacy Policy."
 +++
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from {{< param "brand.domain" >}} (the "Site").
+<a name="top"></a>
+Symmetry Investments Group [[1]](#group-definition) (together referred to as “Symmetry”) provide investment management services.
 
-## Personal Information We Collect
+Symmetry take the security of your personal information seriously and are committed to protecting and respecting your privacy, in compliance with the EU General Data Protection regulation 2016/679 (__“GDPR”__), the Personal Data (Privacy) Ordinance of Hong Kong or any other applicable data privacy laws or regulations. Symmetry will only use your personal information as set out in this Privacy Policy.
 
-When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as "Device Information."
+This notice sets out our Privacy Policy for recruitment candidates and tells you what to expect when we collect information about you (called ‘personal data’).
 
-We collect Device Information using the following technologies:
+We reserve the right to amend this Policy at any time.
 
-- "Cookies" are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit www.allaboutcookies.org.
-- "Log files" track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
-- "Web beacons", "tags", and "pixels" are electronic files used to record information about how you browse the Site.
+#### What information we hold:
 
-Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, PayPal, or crypto currency), email address, and phone number. We refer to this information as "Order Information."
+Symmetry collects and processes the following data about you:
 
-When we talk about "Personal Information" in this Privacy Policy, we are talking both about Device Information and Order Information.
+* Information that you provide to us via our website, via a third party website (such as LinkedIn or Indeed), via email or via telephone including your cv, your full name, your contact details and any other personal information or correspondence you submit to us in your application as a candidate. We may also collect information about your IP address and your geographical location.
 
-## How Do We Use Your Personal Information?
+#### How we use and disclose your information:
 
-We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
-Communicate with you;
-Screen our orders for potential risk or fraud; and
-When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
+The information provided by you as a candidate for employment to Symmetry and publicly available information about you (“your information”) will only be used by Symmetry for a legitimate interest to help the business assess your candidacy for employment.
 
-We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+Symmetry will only process personal data for the purposes for which it was collected and any processed data will be adequate, relevant and limited to what is necessary for the purpose for which it is processed.
 
-## Sharing Your Personal Information
+Your information will be transferred between and accessible by Symmetry’s offices and those of its verification agents, licensees, contracted service providers, subsidiaries and affiliates, subject to strict security controls, on an international basis.  The information may be transferred to countries outside the European Union (“EU”) that have not been deemed to have adequate data protection laws by the EU.  Where we transfer your personal information outside the EU, all such transfers will be subject to strict confidentiality and security precautions, in a manner consistent with any legal requirements applicable to the information.
 
-We share your Personal Information with third parties to help us use your Personal Information, as described above. We use Google Analytics to help us understand how our customers use the Site - you can read more about how Google uses your Personal Information here: www.google.com/intl/en/policies/privacy
+We may carry out reference checks to verify and complement the accuracy and completeness of your information.  We may instruct agents to assist us with those checks.  Subject to any applicable national laws or regulations which will be complied with, the checks will involve confirming your qualifications and your academic status and career history with educational institutions and former employers, verifying institutional memberships and searching publicly available records to confirm your identity, address, qualifications, career history and any criminal record.  They will also include searches of publicly available archives and news records for information on file relating to you as well as bankruptcy searches and court judgements.
 
-You can also opt-out of Google Analytics here: tools.google.com/dlpage/gaoptout
+Your information may be used for the purposes of: legal proceedings (including prospective legal proceedings); obtaining legal advice; establishing, exercising or defending legal rights; compliance with any legal obligation to which the firm is subject; to maintain the security of the firm and its personnel; the prevention and detection of crime or fraud; and compliance with any request from regulatory authorities or other relevant public authorities or agencies.
 
-Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+We may also use and disclose information in aggregate (so that no individuals are identified) for research and statistical purposes, provided that it is permitted by law.
 
-## Behavioural Advertising
+#### Candidate applications to Symmetry:
 
-As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative's ("NAI") educational page at www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
+If you submit your cv to Symmetry, your details will be held on file and will be subject to appropriate security measures. If your application for employment is unsuccessful then the information may be held by us for legitimate interests for as long as necessary in case of any query, for record-keeping purposes or for the purpose of you being considered as a possible candidate for any suitable future opportunities within Symmetry or it will be deleted within a reasonable period following the recruitment exercise. If, at any stage, you would like us to delete or update your details, please contact us via compliance@symmetryinvestments.com.
 
-You can opt out of targeted advertising by visiting:
+If your application for employment is successful, your details will be subject to further processing by us and you will receive further information about such processing, as appropriate.
 
-- facebook.com/settings/?tab=ads
-- google.com/settings/ads/anonymous
-- advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+Except as indicated above, your details will be accessible only by our authorised personnel and will not be disclosed to any third party or used for any other purposes.
 
-Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance's opt-out portal at: optout.aboutads.info.
+By providing your information to us as a candidate, you do so on the basis that you agree to the collation and use of information about you for our legitimate interests as set out in this notice.
 
-## Do Not Track
+#### Removing, accessing or updating your information:
 
-Please note that we do not alter our Site's data collection and use practices when we see a Do Not Track signal from your browser.
+Should local data privacy laws allow, if you do not wish Symmetry to hold your information, you are entitled to tell us at any time and we will remove all such information from our systems, subject to compliance with any applicable legal or regulatory obligations. You may also be entitled to request access to your personal information and request that we correct any inaccurate or incomplete information, subject to the limitations imposed by any applicable local law.
 
-## Your Rights
+#### How to contact us:
 
-If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+Subject to any applicable local data privacy laws, if you wish to request access, update or amend the personal information which Symmetry holds about you, or you wish us to cease holding or restrict using your personal data, please contact us in writing via email:  compliance@symmetryinvestments.com
 
-Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+If you have requests concerning your information or any queries with regard to our processing, please contact us in writing via  email:
 
-## Data Retention
+{{< svg "email" "h-6 w-auto mr-3 inline-block align-text-bottom fill-current text-raven-800" >}} [compliance@symmetryinvestments.com](mailto:compliance@symmetryinvestments.com)
 
-When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+If you have any further concerns or you wish to lodge a complaint, you have the right to refer the matter to the relevant data protection authority.
 
-## Minors
-
-The Site is not intended for individuals under the age of 18.
-
-## Changes
-
-We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
-
-## Contact Us
-
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please [contact us]({{< relref "contact" >}}).
-
-This policy is valid from Jan 01, 2020.
+<a name="group-definition"></a>
+[[1]](#top) ‘Group’ means Symmetry Investments LP, Symmetry Investments (Hong Kong) Limited and Symmetry Investments UK LLP.
