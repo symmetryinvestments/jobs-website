@@ -31,7 +31,7 @@ Compensation is generous to very generous over time by broad technology industry
 
 Here are the technology positions we are hiring for:
 
-### Core Technology
+#### Core Technology
 
 We are always on lookout for __strong software engineers__. Virtues and capabilities are more important to us than just experience and credentials, although those things aren't a disadvantage. Do not let a lack of credentials or qualifications prevent you from applying. We use the [D programming language](https://dlang.org) but are not looking for good D developers as much as good developers who will learn and use D on the job. You get to choose the programming language for the coding interview. We've recently hired experts with C++, Common Lisp, D, Haxe, Julia, and Perl backgrounds, and are happy to bring them up to speed with the tools we use.
 
