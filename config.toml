@@ -30,15 +30,14 @@ domain = "symmetryinvestments.com"
 email = "James Thompson <jthompson@symmetryinvestments.com>"
 
 [params.social]
-facebook = "https://www.facebook.com/user_or_page"
-github = "https://github.com/user"
-instagram = "https://instagram.com/user"
-linkedin = "https://www.linkedin.com/in/user"
-pinterest = "https://www.pinterest.com/user"
-stackoverflow = "https://stackoverflow.com/users/user"
-twitter = "https://twitter.com/axiomtheme"
-youtube = "https://www.youtube.com/user"
-# footer = ["twitter", "github", "instagram"]
+github = "https://github.com/symmetryinvestments"
+#instagram = "https://instagram.com/user"
+linkedin = "https://linkedin.com/company/symmetry-investments-uk-llp"
+#pinterest = "https://www.pinterest.com/user"
+#stackoverflow = "https://stackoverflow.com/users/user"
+twitter = "https://twitter.com/SymmetryInvest"
+#youtube = "https://www.youtube.com/user"
+footer = ["twitter", "github", "linkedin"]
 
 [params.services]
 # googleAnalyticsId = "UA-160259978-2"

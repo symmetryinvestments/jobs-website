@@ -37,10 +37,18 @@ We are always on lookout for __strong software engineers__. Virtues and capabili
 
 As any technologically-sophisticated firm, we have broad needs for our systems development, which include: __DevOps__, __InfoSec__, __documentation__, __UX__, __process designers__, __team and tool design__, Windows and Linux __desktop support__, __system/server administration__.
 
-### Business Technology
+#### Business Technology
 
 We are looking for strong fintech people in __portfolio research__, __analytics__, __investment research__. Research is carried in our own Symmetry Integration Language, R, Julia, and Python. Such a position is for you if you have strong math and modeling skills, an ability to code, and can collaborate productively with other analysts and with developers.
 
-### General Business
+#### Getting in Touch
+
+For discussing opportunities, email to:
+
+{{< svg "email" "h-6 w-auto mr-3 inline-block align-text-bottom fill-current text-raven-800" >}} [{{< param "brand.email" >}}](mailto:{{< param "brand.email" >}})
+
+<!--
+#### General Business
 
 We also have openings in risk, operations, legal, compliance, finance, administrative, organisational design, documentation, internal communication, investor relations processes, contract administration, and data cleaning. Check the [Symmetry Jobs Portal](https://jobs.lever.co/symmetryinvestments?lever-origin=applied&lever-source%5B%5D=website) for a listing of all of our current job openings.
+-->
